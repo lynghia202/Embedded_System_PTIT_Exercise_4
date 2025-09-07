@@ -1,1 +1,19 @@
 # Embedded_System_PTIT_Exercise_4
+## Giới thiệu
+Bài tập 4 - Timer
+## Yêu cầu:
+- Cấu hình một Timer ở chế độ cơ bản, sử dụng Timer để tạo hàm Delay đạt độ chính xác cao.
+- Cấu hình một timer cơ bản để tạo ngắt mỗi 500ms. Trong ISR của timer, đảo trạng thái của LED LD2. Kết quả là LED nhấp nháy với chu kỳ 1000ms.
+- Có thể dùng máy hiện sóng, Logic Analyzer để đánh giá tính chính xác của Timer.
+## Phần cứng sử dụng
+- STM32F103C8T6
+- LED
+## Demo
+ [Demo](https://youtu.be/lMAGjrso8ow)
+
+## Thành viên
+- Nguyễn Đức Nam
+- Lý Trọng Nghĩa
+- Dương Sơn Quang
+- Nguyễn Minh Đức
+
